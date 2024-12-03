@@ -6,7 +6,7 @@ import "~style.css"
 
 function IndexPopup() {
   return (
-    <div>
+    <div className="h-[500px] w-[500px]">
       <PlateEditor />
     </div>
   )
